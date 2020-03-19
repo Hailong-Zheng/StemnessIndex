@@ -1,0 +1,10 @@
+Package: StemnessIndex
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Hailong Zheng
+Maintainer: Hailong Zheng <zhenghailong_hmu@163.com>
+Description: Providing the absolute human stemness index based on the gene pairs.
+License: No license.
+Encoding: UTF-8
+LazyData: true
