@@ -1,5 +1,5 @@
 # StemnessIndex
-Providing the absolute human stemness index based on the gene pairs.This classifier is limited to the data measured by RNA-seq or illumina platform.
+Providing the absolute human stemness index based on the gene pairs.This classifier is limited to the data measured by RNA-seq or Illumina platform.
 
 # Install
 To install the StemnessIndex, install from github using devtools
